@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.9.3": {
+    "promptValues": {
+      "packageName": "hasyze.coopcycle",
+      "nativeLanguage": "fr"
+    }
+  }
+}
