@@ -1,1 +1,0 @@
-org.springframework.test.context.ContextCustomizerFactory = info4.gl.blog.config.TestContainersSpringContextCustomizerFactory
